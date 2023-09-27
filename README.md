@@ -2,7 +2,7 @@
 
 Check app here: 
 
-<img width="1647" alt="image" src="">
+![image](https://github.com/psiecinski/inFakt/assets/26043661/1c3e39d3-dacc-4560-abad-58fa37272662)
 
 This is an example project with usage of
 - React
