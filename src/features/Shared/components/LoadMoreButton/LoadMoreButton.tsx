@@ -8,7 +8,7 @@ type Props = {
 export default function LoadMoreButton({ fetchMore, isLoading }: Props) {
   return (
     <LoadButton onClick={fetchMore} disabled={isLoading} className={isLoading ? "loading" : ""}>
-      {isLoading ? "Ładowanie..." : "Wczytaj więcej księgowych"}
+      {isLoading ? "Ładowanie..." : "Wczytaj więcej"}
     </LoadButton>
   );
 }
