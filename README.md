@@ -1,6 +1,6 @@
 # inFakt
 
-Check app here: 
+Check app here: https://infakt-rekrutacja.vercel.app/
 
 ![image](https://github.com/psiecinski/inFakt/assets/26043661/1c3e39d3-dacc-4560-abad-58fa37272662)
 
